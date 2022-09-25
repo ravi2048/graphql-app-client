@@ -1,0 +1,47 @@
+.project-container {
+    margin: 4em auto 0 auto;
+    width: 70%;
+    border: 1px solid black;
+    border-radius: 0.3em;
+}
+
+.project-container .project-info {
+    text-align: left;
+    padding-left: 1em;
+}
+
+.project-container .client-info {
+    text-align: left;
+    padding-left: 1em;
+}
+
+.project-container .action-buttons button {
+    transform: translateX(-100%);
+    height: 2em;
+    margin: 1em 1em 1em 98%; 
+}
+
+.project-info h2{
+    text-align: left;
+    font-weight: lighter;
+    margin-top: 0;
+}
+
+.project-info .header {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header button {
+    height: 2em;
+    margin: 1em 1em 0 0;
+}
+
+
+.client-info .heading2 {
+    font-weight: bold;
+}
+
+.client-info h2 {
+    font-weight: normal;
+}

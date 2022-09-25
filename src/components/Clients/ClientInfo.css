@@ -1,0 +1,11 @@
+.client-info {
+    padding-left: 1em;
+    
+    margin: 0 auto;
+}
+
+.client-info h2 {
+    text-align: left;
+    font-weight: lighter;
+    margin-top: 0;
+}
