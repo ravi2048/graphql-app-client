@@ -6,7 +6,7 @@ import Project from './Pages/Project';
 import Header from './components/Header/Header';
 
 const client = new ApolloClient({
-  uri: "https://graphql-project-backend.herokuapp.com/graphql",
+  uri: "https://pma-graphql-backend.onrender.com/graphql",
   cache: new InMemoryCache(),
 });
 
